@@ -11,7 +11,7 @@ Torchvision datasets: https://pytorch.org/docs/stable/torchvision/index.html
 
 ## **Instruction:** 
 
-**Please open `nn.ipynb` for all the code and results. OR
+**Please open `nn.ipynb` for all the code and results. OR**
 
 **To Clone the repository:** `git clone https://github.com/tito-coffee/aiproject`
 
