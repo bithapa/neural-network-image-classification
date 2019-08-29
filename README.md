@@ -10,6 +10,7 @@ Pytorch's `torch` documentation: https://pytorch.org/docs/stable/torch.html
 ## **Instruction:** 
 
 **To Clone the repository:** `git clone https://github.com/tito-coffee/aiproject`
+
 Open the `nn.ipynb` file in [Jupyter Notebook Editor](https://jupyter.org/install) and run the cells.
 
 
