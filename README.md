@@ -4,6 +4,7 @@ This projects implements neural network with PyTorch Library to create deep lear
 Technologies Used: Python, PyTorch, NumPy
 
 Pytorch's `torch` documentation: https://pytorch.org/docs/stable/torch.html
+
 Torchvision datasets: https://pytorch.org/docs/stable/torchvision/index.html 
 
 ---
