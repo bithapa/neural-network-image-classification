@@ -11,7 +11,7 @@ Torchvision datasets: https://pytorch.org/docs/stable/torchvision/index.html
 
 ## **Instruction:** 
 
-1. **Open `nn.ipynb`** for all the code and results. OR
+1. **Open `neural_network.ipynb`** for all the code and results. OR
 2. **Clone the repository** with `git clone https://github.com/tito-coffee/aiproject` and open the `nn.ipynb` file in [Jupyter Notebook Editor](https://jupyter.org/install) and run the cells. OR
 3. **Run the notebook in Google Colab (Google Sign in required),** [follow this link](https://colab.research.google.com/drive/1U6SJgKbr-OqX9_fQSYJKV_SeYHExJb4a)
 
