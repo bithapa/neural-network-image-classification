@@ -1,5 +1,5 @@
 # aiproject
-This projects implements neural network with PyTorch Library to create deep learning models that can **predict hand-written digits** and **classify MNIST fashion images**.
+This project was a part of ai scholarship course from Facebook & Udacity. It implements neural network from scratch using Python and with PyTorch Library to create deep learning models that can **predict hand-written digits** and **classify MNIST fashion images**.
 
 Technologies Used: Python, PyTorch, NumPy
 
