@@ -1,6 +1,6 @@
 # Image Classification using Neural Networks (from scratch)
 
-This project was a part of AI Scholarship Course that I won from Udacity & Facebook. 
+This project was a part of **AI Scholarship Course** that I won from **Udacity & Facebook**. 
 It implements neural network from scratch using Python and PyTorch Library to create deep learning models that can **predict hand-written digits** and **classify MNIST fashion images**.
 
 Technologies Used: Python, PyTorch, NumPy
