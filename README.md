@@ -1,5 +1,7 @@
-# aiproject
-This project was a part of ai scholarship course from Facebook & Udacity. It implements neural network from scratch using Python and with PyTorch Library to create deep learning models that can **predict hand-written digits** and **classify MNIST fashion images**.
+# Image Classification using Neural Networks (from scratch)
+
+This project was a part of AI Scholarship Course that I won from Udacity & Facebook. 
+It implements neural network from scratch using Python and PyTorch Library to create deep learning models that can **predict hand-written digits** and **classify MNIST fashion images**.
 
 Technologies Used: Python, PyTorch, NumPy
 
@@ -9,7 +11,7 @@ Torchvision datasets: https://pytorch.org/docs/stable/torchvision/index.html
 
 ---
 
-## **Instruction:** 
+## **How to Run The Code:** 
 
 1. **Open `neural_network.ipynb`** for all the code and results. OR
 2. **Clone the repository** with `git clone https://github.com/tito-coffee/aiproject` and open the `nn.ipynb` file in [Jupyter Notebook Editor](https://jupyter.org/install) and run the cells. OR
